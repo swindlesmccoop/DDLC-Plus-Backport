@@ -25,16 +25,10 @@ sh backport.sh
 Either submit an issue on the issues tab *or* you can email me at swindlesmccoop@waifu.club.
 
 # Purpose
-<<<<<<< HEAD
 This is purely an experimental project to test the flexibility of the Ren'Py engine. It is not designed to be played in lieu of the official DDLC, nor in lieu of DDLC Plus. You should download and play both games first.
-=======
-Port all of the content in the expanded port of DDLC back to the original Ren'Py engine from the new Unity engine
->>>>>>> 22b42e4d40b8f538fa74e3d76352bb672f8e26c9
 
 # Legality
 It's against Team Salvato's IP guidelines to distribute a mod with DDLC Plus content for any game besides DDLC Plus. By all technicality, I am not even distributing an actual mod - I'm merely distributing a script that allows an individual user to experience the new content of DDLC Plus in the original engine *after* they have already played both games. I am not distributing any officially licensed assets in this repository, such as the code to any features or scenes, nor any multimedia files, nor does the script give the user a means to accessing them. I do not encourage nor condone piracy, and all content required for this script should be obtained through legitimate means.\
-
-<<<<<<< HEAD
 ```
 Features, scenes, and assets that originate from DDLC Plus may NOT be ported, replicated, or included in mods or Fan games. Mods of the original DDLC should only use assets present in the original game, as well as any assets you create yourself. Fan games and mods should not seek to replicate or replace DDLC Plus.
 ```
@@ -42,10 +36,9 @@ If you do not know how to legally obtain the assets, you can email me and we can
 
 # Copyright / DMCA / IP Enforcement
 Email me at swindlesmccoop@waifu.club. If you prefer to deal with the site administrator instead, email yuno@cbps.xyz, however I would prefer to have a conversation and work out some kind of agreement beforehand.
-=======
+
 # Issues and Troubleshooting
 Either submit an issue on the issues tab *or* you can email me at swindlesmccoop@waifu.club
 
 # Copyright / DMCA / Whatever spook there is nowadays
 Direct all complaints to the site admin, yuno@cbps.xyz.
->>>>>>> 22b42e4d40b8f538fa74e3d76352bb672f8e26c9
