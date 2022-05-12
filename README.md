@@ -34,11 +34,8 @@ Features, scenes, and assets that originate from DDLC Plus may NOT be ported, re
 ```
 If you do not know how to legally obtain the assets, you can email me and we can discuss it.
 
-# Copyright / DMCA / IP Enforcement
+# Copyright / DMCA / IP Enforcement / Whatever spook there is nowadays
 Email me at swindlesmccoop@waifu.club. If you prefer to deal with the site administrator instead, email yuno@cbps.xyz, however I would prefer to have a conversation and work out some kind of agreement beforehand.
 
 # Issues and Troubleshooting
 Either submit an issue on the issues tab *or* you can email me at swindlesmccoop@waifu.club
-
-# Copyright / DMCA / Whatever spook there is nowadays
-Direct all complaints to the site admin, yuno@cbps.xyz.
